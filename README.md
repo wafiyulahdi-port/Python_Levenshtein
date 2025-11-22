@@ -1,4 +1,4 @@
-# Python_Levenshtein
+# Levenshtein_Testing
 This project demonstrates the implementation of Levenshtein Distance for basic spelling correction and similarity measurement between strings. This is 2025 project
 
 The notebook contains two main components:
